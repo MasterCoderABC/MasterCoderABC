@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning french
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email: aahanchoksi2@gmail.com
+- 📫 How to reach me: discord id - AahanIsHere#2716
 
 <!---
 MasterCoderABC/MasterCoderABC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
