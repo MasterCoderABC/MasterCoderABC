@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AahanIsHere
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning french
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: discord id - AahanIsHere#2716
 
