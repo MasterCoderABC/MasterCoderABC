@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AahanIsHere
 - 👀 I’m interested in Coding & Minecraft
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on a pizza game
+- 💞️ I’m looking to collaborate on...
 - 📫 How to reach me: discord id - AahanIsHere#2716
 
 <!---
